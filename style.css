@@ -1,0 +1,46 @@
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #fefefe;
+    color: #333;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: url('../assets/banner.jpg') center/cover no-repeat;
+    color: white;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
